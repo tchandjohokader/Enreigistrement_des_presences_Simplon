@@ -41,7 +41,7 @@ try {
                     <th>N'</th>
                     <th>Nom</th>
                     <th>Prenom</th>
-                    <th>Contact</th>
+                    <th>Numero</th>
                     <th>Email</th>
                 </tr>
             </thead>
