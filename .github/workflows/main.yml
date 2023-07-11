@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: kader225/simplon:<none>
+          tags: kader225/simplon: latest
